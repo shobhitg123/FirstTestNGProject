@@ -5,7 +5,7 @@
     <classes>
       <class name="GmailRegister">
         <methods>
-          <include name="naukrilaunch"/>
+          <include name="notlogin"/>
           <include name="launchbrowser"/>
           <include name="close"/>
         </methods>
